@@ -1,0 +1,43 @@
+name: Download Daily Wallpaper
+
+on:
+  schedule:
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [14.x]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+   
+      - name: Download Unslpash daily image
+        run: |
+          npm i -g unsplash-wallpaper
+          cd ./assets/
+          unsplash-wallpaper --featured --search wallpapers --daily --width 4096 --height 2160
+          mv -fv wallpaper-photo*.jpg unsplash_wallpaper_4k.jpg
+          unsplash-wallpaper --featured --search wallpapers --daily --width 1920 --height 1080
+          mv -fv wallpaper-photo*.jpg unsplash_wallpaper_1080p.jpg
+          
+      - name: Download Bing wallpaper
+        run: |
+          cd ./assets/
+          curl "https://bing.ioliu.cn/v1/rand?w=4096&h=2160" -o "bing_wallpaper_4k.jpg"
+          curl "https://bing.ioliu.cn/v1/rand?w=1920&h=1080" -o "bing_wallpaper_1080p.jpg"
+          
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7
+        with:
+          branch: master
+          message: 'Download Daily Wallpaper'
