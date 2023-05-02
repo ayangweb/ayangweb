@@ -2,7 +2,7 @@ name: Download Daily Wallpaper
 
 on:
   schedule:
-    - cron: '15 0 * * *'
+    - cron: "15 0,6,12 * * *"
   workflow_dispatch:
 
 jobs:
