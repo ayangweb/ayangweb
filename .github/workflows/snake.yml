@@ -1,28 +1,30 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0,6,12 * * *"
-  workflow_dispatch:
+    schedule:
+        - cron: "0 0,6,12 * * *"
+    workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+    build:
+        runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2.3.4
-      
-      - name: Generate Snake
-        uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./assets/github-contribution-grid-snake.gif
-          svg_out_path: ./assets/github-contribution-grid-snake.svg
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v2.3.4
 
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          branch: master
-          message: 'Generate Contribution Snake'
+            - name: generate github-contribution-grid-snake.svg
+              uses: Platane/snk/svg-only@v3
+              with:
+                  github_user_name: ${{ github.repository_owner }}
+                  outputs: |
+                      dist/github-contribution-grid-snake.svg
+                      dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+            - name: Push to GitHub
+              uses: EndBug/add-and-commit@v7.2.1
+              with:
+                  branch: master
+                  message: "Generate Contribution Snake"
