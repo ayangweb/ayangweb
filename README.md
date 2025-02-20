@@ -7,8 +7,6 @@
 - **Phone** : 18209702423
 - **E-mail** : ayangweb@foxmail.com
 
-> ## 求职求职，西安或者远程办公求内推，联系方式在上面 ☝️
-
 ### 📊 Stats:
 
 <img  src="https://github-readme-stats.vercel.app/api?username=ayangweb&theme=vue&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats" />
