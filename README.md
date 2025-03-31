@@ -2,12 +2,11 @@
 
 ### 🚀 Projects:
 
-[EcoPaste](https://github.com/EcoPasteHub/EcoPaste): Cross-platform clipboard management tool based on the tauri development.
+[EcoPaste](https://github.com/EcoPasteHub/EcoPaste): Cross-platform clipboard management tool.
 
-[BongoCat](https://github.com/ayangweb/BongoCat): Cross-platform desktop pets based on tauri development.
+[BongoCat](https://github.com/ayangweb/BongoCat): Cross-platform desktop pets.
 
-[tauri-plugins](https://github.com/ayangweb?tab=repositories&q=tauri-plugin&type=source&language=&sort=stargazers): Develop high-quality tauri plug-ins that extend tauri's functionality and make it easier to use and more powerful.
-### 📊 Stats:
+[tauri-plugins](https://github.com/ayangweb?tab=repositories&q=tauri-plugin&type=source&language=&sort=stargazers): Extend the functionality of tauri.
 
 <img  src="https://github-readme-stats.vercel.app/api?username=ayangweb&theme=vue&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats" />
 
