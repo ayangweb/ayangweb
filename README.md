@@ -8,6 +8,8 @@
 
 [tauri-plugins](https://github.com/ayangweb?tab=repositories&q=tauri-plugin&type=source&language=&sort=stargazers): Extend the functionality of tauri.
 
+### 📊 Stats:
+
 <img  src="https://github-readme-stats.vercel.app/api?username=ayangweb&theme=vue&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats" />
 
 <picture>
