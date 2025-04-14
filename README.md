@@ -17,7 +17,7 @@
 - 🐱 [BongoCat](https://github.com/ayangweb/BongoCat)  
   A cross-platform interactive desktop application featuring the iconic Bongo Cat.
 
-- 🤖 [CocoAI](https://github.com/infinilabs/coco-app)  
+- 🤖 [Coco AI](https://github.com/infinilabs/coco-app)  
   A cross-platform app to search, connect, and collaborate — all in one place.
 
 - 🔌 [Tauri Plugins](https://github.com/ayangweb?tab=repositories&q=tauri-plugin&type=source&language=&sort=stargazers)  
