@@ -55,5 +55,3 @@ When I'm not coding, you’ll find me:
 - QQ: 473033518
 - Wechat: ayangweb
 - Email: ayangweb@foxmail.com
-
-Thanks for stopping by! Let’s build something awesome together. 🚀
