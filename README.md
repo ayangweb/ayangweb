@@ -3,7 +3,6 @@
 ### 🚀 About Me
 
 - 🌐 **Frontend Enthusiast** – I love working with modern web technologies like React and Vue.
-- 🛠️ **Backend Explorer** – Comfortable with Node.js, Express, and building RESTful APIs.
 - 📦 **Open Source Advocate** – I enjoy contributing to open-source projects and learning from the community.
 - 🎯 **Lifelong Learner** – Always exploring new technologies and staying updated with industry trends.
 
