@@ -3,7 +3,6 @@
 
 ### 📫 Contact
 
-- QQ: 473033518
 - Wechat: ayangweb
 - Email: ayangweb@foxmail.com
 
