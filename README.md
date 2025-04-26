@@ -1,5 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Ayang.;A+Front-End+Developer.;An+Open+Source+Contributor.)](https://git.io/typing-svg)
 
+
+### 📫 Contact
+
+- QQ: 473033518
+- Wechat: ayangweb
+- Email: ayangweb@foxmail.com
+
+---
+
 ### 🚀 About Me
 
 - 🌐 **Frontend Enthusiast** – I love working with modern web technologies like React and Vue.
@@ -47,11 +56,3 @@ When I'm not coding, you’ll find me:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-### 📫 Contact
-
-- QQ: 473033518
-- Wechat: ayangweb
-- Email: ayangweb@foxmail.com
