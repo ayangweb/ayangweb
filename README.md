@@ -44,7 +44,8 @@ When I'm not coding, you’ll find me:
 
 ### 📊 GitHub Stats
 
-![ayangweb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayangweb&theme=vue&show_icons=true&hide_title=true)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayangweb&theme=vue&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayangweb&layout=compact&theme=vue&hide_border=true" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
 
