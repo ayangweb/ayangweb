@@ -27,13 +27,6 @@
 - 🔌 [Tauri Plugins](https://github.com/ayangweb?tab=repositories&q=tauri-plugin&type=source&language=&sort=stargazers)  
   A collection of plugins to supercharge your Tauri applications.
 
-### 💡 Fun Fact
-
-When I'm not coding, you’ll find me:
-- Binge-watching dramas 🎬  
-- Playing pool 🎱  
-- Sleeping like a log 😴  
-
 ### 📊 GitHub Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayangweb&theme=vue&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayangweb&layout=compact&theme=vue&hide_border=true" /> |
