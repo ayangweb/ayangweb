@@ -25,7 +25,10 @@
   A cross-platform app to search, connect, and collaborate — all in one place.
 
 - 🔌 [Tauri Plugins](https://github.com/ayangweb?tab=repositories&q=tauri-plugin&type=source&language=&sort=stargazers)  
-  A collection of plugins to supercharge your Tauri applications.
+  A collection of plugins to extend and simplify your [Tauri](https://github.com/tauri-apps/tauri) development.
+
+- 🌍 [Bob Plugins](https://github.com/ayangweb?tab=repositories&q=bob-plugin&type=&language=&sort=stargazers)  
+  A collection of plugins to extend your translation workflow with [Bob](https://bobtranslate.com/).
 
 ### 📊 GitHub Stats
 
