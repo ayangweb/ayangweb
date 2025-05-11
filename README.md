@@ -6,13 +6,6 @@
 - Wechat: ayangweb
 - Email: ayangweb@foxmail.com
 
-### 🚀 About Me
-
-- 🌐 **Frontend Enthusiast** – I love working with modern web technologies like React and Vue.
-- 🛠️ **Exploring Tauri** – Built cross-platform apps and plugins using Rust and Web technologies.
-- 📦 **Open Source Advocate** – I enjoy contributing to open-source projects and learning from the community.
-- 🎯 **Lifelong Learner** – Always exploring new technologies and staying updated with industry trends.
-
 ### 💻 Portfolio
 
 - 📋 [EcoPaste](https://github.com/EcoPasteHub/EcoPaste)  
