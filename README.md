@@ -8,11 +8,11 @@
 
 ### 💻 Portfolio
 
-- 📋 [EcoPaste](https://github.com/EcoPasteHub/EcoPaste)  
-  A cross-platform clipboard manager built for speed, simplicity, and productivity.
-
 - 🐱 [BongoCat](https://github.com/ayangweb/BongoCat)  
   A cross-platform interactive desktop application featuring the iconic Bongo Cat.
+
+- 📋 [EcoPaste](https://github.com/EcoPasteHub/EcoPaste)  
+  A cross-platform clipboard manager built for speed, simplicity, and productivity.
 
 - 🤖 [Coco AI](https://github.com/infinilabs/coco-app)  
   A cross-platform app to search, connect, and collaborate — all in one place.
