@@ -9,19 +9,13 @@
 ### 💻 Portfolio
 
 - 🐱 [BongoCat](https://github.com/ayangweb/BongoCat)  
-  A cross-platform interactive desktop application featuring the iconic Bongo Cat.
+  Cross-platform interactive desktop pets.
 
 - 📋 [EcoPaste](https://github.com/EcoPasteHub/EcoPaste)  
-  A cross-platform clipboard manager built for speed, simplicity, and productivity.
-
-- 🤖 [Coco AI](https://github.com/infinilabs/coco-app)  
-  A cross-platform app to search, connect, and collaborate — all in one place.
+  Cross-platform clipboard management tool.
 
 - 🔌 [Tauri Plugins](https://github.com/ayangweb?tab=repositories&q=tauri-plugin&type=source&language=&sort=stargazers)  
-  A collection of plugins to extend and simplify your [Tauri](https://github.com/tauri-apps/tauri) development.
-
-- 🌍 [Bob Plugins](https://github.com/ayangweb?tab=repositories&q=bob-plugin&type=&language=&sort=stargazers)  
-  A collection of plugins to extend your translation workflow with [Bob](https://bobtranslate.com/).
+  Collection of practical Tauri plugins.
 
 ### 📊 GitHub Stats
 
